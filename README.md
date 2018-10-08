@@ -1,6 +1,6 @@
 # About userToken
 --------------
-### UserToken provide tools to manage individuals basic rights on the Internet.
+### UserToken provides tools to manage basic rights on the Internet.
 
 #### Individual basic rights Online
 - An individual has the right to an online identity
