@@ -1,5 +1,8 @@
-# About userToken
+# UserToken is a Public Good technology company
 --------------
+- We are an advocate for the good of society.
+- We provide tools to connect society with cultures on the Internet to foster and grow communities.
+
 ### UserToken provides tools to manage basic rights on the Internet.
 
 #### Individual basic rights Online

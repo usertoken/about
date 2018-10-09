@@ -5,10 +5,13 @@
 #### Identity
 
 - I need to have an Identity that is available online
- [ ] - technology selection
- 
-- This Identity needs the following abilities
+ [x] - technology selection : dual blockchains - open and permissable
+    [ ] - open : single time-base DAG with nodes as hash root to atomic permissable chain
+    [ ] - permissable : independent time-base DAGs of user attributes
 
- [ ] - Accept inputs (ears)
+#### Storage
 
- [ ] - Produce outputs (voice)
+- I need to have online storage for all my digital assets and more
+  [ ] - technology selection : data at rest and movement
+    [ ] - data at rest : IPFS/CosmosDB, Tahoe-lafs
+    [ ] - data movement : DAT, GunDB
